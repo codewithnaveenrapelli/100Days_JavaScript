@@ -14,6 +14,7 @@
 | 10    |  [Function arrayAreEqual](./Day_10/day_10.js) | 
 | 11    |  [Sum of it's digits](./Day_11/day_11.js) | 
 | 12    |  [Remove any duplicate elements from Array](./Day_12/day_12.js) | 
+| 12    |  [Function to check in a string Vowels](./Day_13/day_13.js) | 
 
 
 
