@@ -16,6 +16,8 @@
 | 12    |  [Remove any duplicate elements from Array](./Day_12/day_12.js) | 
 | 13    |  [Function to check in a string Vowels](./Day_13/day_13.js) | 
 | 14    |  [Function to check Power of Two](./Day_14/day_14.js) | 
+| 15    |  [Calculate the sum of the square](./Day_15/day_15.js) | 
+| 16    |  [Function to findMin value in array](./Day_16/day_16.js) | 
 
 
 
