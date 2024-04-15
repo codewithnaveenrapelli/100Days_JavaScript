@@ -19,6 +19,7 @@
 | 15    |  [Calculate the sum of the square](./Day_15/day_15.js) | 
 | 16    |  [Function to findMin value in array](./Day_16/day_16.js) | 
 | 17    |  [Convert String into camelCase and snake_case](./Day_17/day_17.js) | 
+| 18    |  [checkCharacter is uppercase or lowercase](./Day_18/day_18.js) | 
 
 
 
