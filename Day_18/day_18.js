@@ -1,4 +1,4 @@
-//? Write a function to check if a character is uppercase or lowercase.
+//? Write a function to check if a checkCharacter is uppercase or lowercase.
 
 
 //? constrains
