@@ -20,6 +20,8 @@
 | 16    |  [Function to findMin value in array](./Day_16/day_16.js) | 
 | 17    |  [Convert String into camelCase and snake_case](./Day_17/day_17.js) | 
 | 18    |  [checkCharacter is uppercase or lowercase](./Day_18/day_18.js) | 
+| 19    |  [Check subString Starts with given string or not](./Day_19/day_19.js) | 
+| 20    |  [Reverse String Without using build in Methods](./Day_20/day_20.js) | 
 
 
 
