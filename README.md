@@ -22,6 +22,8 @@
 | 18    |  [checkCharacter is uppercase or lowercase](./Day_18/day_18.js) | 
 | 19    |  [Check subString Starts with given string or not](./Day_19/day_19.js) | 
 | 20    |  [Reverse String Without using build in Methods](./Day_20/day_20.js) | 
+| 21    |  [Write function called calculateMean](./Day_21/day_21.js) | 
+| 22    |  [Write a function findMedian(arr)](./Day_22/day_22.js) | 
 
 
 
