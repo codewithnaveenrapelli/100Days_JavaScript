@@ -25,6 +25,7 @@
 | 21    |  [Write function called calculateMean](./Day_21/day_21.js) | 
 | 22    |  [Write a function findMedian(arr)](./Day_22/day_22.js) | 
 | 23    |  [count the occurrence in an array](./Day_23/day_23.js) | 
+| 24    |  [Write a function called findMode](./Day_24/day_24.js) | 
 
 
 
