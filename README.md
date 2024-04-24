@@ -30,6 +30,7 @@
 | 26    |  [Write a function to find the nth fibonacci number](./Day_26/day_26.js) | 
 | 27    |  [Write a function to repeatString](./Day_27/day_27.js) | 
 | 28    |  [Write a function to truncated the string](./Day_28/day_28.js) | 
+| 29    |  [Write a function numberRange that generate an array containing consecutive numbers from a to b](./Day_29/day_29.js) | 
 
 
 
