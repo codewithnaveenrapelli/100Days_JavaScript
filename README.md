@@ -1,5 +1,3 @@
-# 100Days_JavaScript 🩷👍
-
 | Day |   Topics     | 
 | ----- | :------------------: |
 | 01    |  [Write a function to check Longest Word in the String](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_01/Day_01.js) |
