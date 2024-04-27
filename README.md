@@ -29,8 +29,8 @@
 | 27    |  [Write a function to repeatString](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_27/day_27.js) | 
 | 28    |  [Write a function to truncated the string](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_28/day_28.js) | 
 | 29    |  [Write a function numberRange that generate an array containing consecutive numbers from a to b](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_29/Day_29.js) | 
-| 30    |  [write a function called numberRangeRecursive](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_30/Day_30.js) | 
-| 31    |  [Write a function called simplePasswordValidator](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_31/Day_31.js) | 
+| 30    |  [write a function called numberRangeRecursive](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_30/day_30.js) | 
+| 31    |  [Write a function called simplePasswordValidator](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_31/day_31.js) | 
 
 
 
