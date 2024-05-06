@@ -31,7 +31,15 @@
 | 29    |  [Write a function numberRange that generate an array containing consecutive numbers from a to b](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_29/Day_29.js) | 
 | 30    |  [write a function called numberRangeRecursive](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_30/day_30.js) | 
 | 31    |  [Write a function called simplePasswordValidator](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_31/day_31.js) | 
-
+| 32    |  [Image Filter Using Event Delegation](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_32/day_32.js) | 
+| 33    |  [Random Hex Color Generator](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_33/day_33.js) | 
+| 34    |  [Remove duplicate from array](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_34/day_34.js) | 
+| 35    |  [Check object isEmptyObject](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_35/day_35.js) | 
+| 36    |  [convert object to array and vise versa](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_36/day_36.js) | 
+| 37   |  [Simple Interest Calculator](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_37/day_37.js) | 
+| 38    |  [Number of Days Between Two Dates](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_38/day_38.js) | 
+| 39    |  [calculate age from birthDate](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_39/day_39.js) | 
+| 40    |  [Generate Bar Chat with Array](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_40/day_40.js) | 
 
 
 
