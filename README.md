@@ -40,6 +40,9 @@
 | 38    |  [Number of Days Between Two Dates](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_38/day_38.js) | 
 | 39    |  [calculate age from birthDate](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_39/day_39.js) | 
 | 40    |  [Generate Bar Chat with Array](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_40/day_40.js) | 
+| 41    |  [Convert Currency](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_41/day_41.js) | 
+| 42    |  [Credit Card Number Validation](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_42/day_42.js) | 
+
 
 
 
