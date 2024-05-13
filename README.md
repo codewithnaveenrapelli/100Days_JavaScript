@@ -42,6 +42,9 @@
 | 40    |  [Generate Bar Chat with Array](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_40/day_40.js) | 
 | 41    |  [Convert Currency](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_41/day_41.js) | 
 | 42    |  [Credit Card Number Validation](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_42/day_42.js) | 
+| 43    |  [FizzBuzz Challenge](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_43/day_43.js) | 
+| 45    |  [Password validation using Regex](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_45/day_45.js) | 
+| 46    |  [Mobile Number validation using Regex](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_46/day_46.js) | 
 
 
 
