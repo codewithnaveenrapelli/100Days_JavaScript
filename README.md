@@ -45,6 +45,9 @@
 | 43    |  [FizzBuzz Challenge](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_43/day_43.js) | 
 | 45    |  [Password validation using Regex](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_45/day_45.js) | 
 | 46    |  [Mobile Number validation using Regex](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_46/day_46.js) | 
+| 47    |  [Extract Number from a string](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_47/day_47.js) | 
+| 48    |  [validate hex color code](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_48/day_48.js) | 
+| 49    |  [Date Validation](https://github.com/DeveloperResource-NaveenR/100Days_JavaScript/blob/main/Day_49/day_49.js) | 
 
 
 
