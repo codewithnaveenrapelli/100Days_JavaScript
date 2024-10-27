@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <link rel="stylesheet" href="fonts/linearicons/style.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .form-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            box-shadow: blue;
+        }
+
+        form {
+            width: 50% auto;
+        }
+
+        h3 {
+            font-size: 4rem;
+        }
+
+        .form-data input {
+            font-size: 2rem;
+            width: 500px;
+            margin: 20px 0px;
+            background: transparent;
+        }
+
+        input:hover {
+            background: white;
+        }
+
+        .formSubmit span {
+            font-size: 40px;
+            padding: 30px 20px;
+        }
+
+        .error {
+            color: red;
+            font-size: 24px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="form-container">
+        <form action="">
+            <h3>Registration form</h3>
+            <div class="form-holder">
+                <div class="form-data">
+                    <span class="lnr lnr-user"></span>
+                    <input type="text" class="form-control" placeholder="Username" required autocomplete="off"
+                        id="username">
+                </div>
+                <div class="error" id="usernameError"></div>
+            </div>
+            <div class="form-holder">
+                <div class="form-data">
+                    <span class="lnr lnr-phone-handset"></span>
+                    <input type="number" class="form-control" placeholder="Phone Number" required autocomplete="off"
+                        id="phone">
+                </div>
+                <div class="error" id="phoneError"></div>
+            </div>
+            <div class="form-holder">
+                <div class="form-data">
+                    <span class="lnr lnr-envelope"></span>
+                    <input type="text" class="form-control" placeholder="Mail" required autocomplete="off" id="mail">
+                </div>
+                <div class="error" id="mailError"></div>
+            </div>
+            <div class="form-holder">
+                <div class="form-data">
+                    <span class="lnr lnr-lock"></span>
+                    <input type="password" class="form-control" placeholder="Password" required autocomplete="off"
+                        id="password">
+                </div>
+                <div class="error" id="passwordError"></div>
+            </div>
+            <div class="form-holder">
+                <div class="form-data">
+                    <span class="lnr lnr-lock"></span>
+                    <input type="password" class="form-control" placeholder="ConformPassword" required
+                        autocomplete="off" id="conformPassword">
+                </div>
+                <div class="error" id="ConformPasswordError"></div>
+            </div>
+            <button class="formSubmit">
+                <span>Register</span>
+            </button>
+        </form>
+    </div>
+    <script src="./day_50.js"></script>
+</body>
+
+</html>
